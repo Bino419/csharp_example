@@ -1,2 +1,2 @@
 # csharp_example
-example_will_be_deleted
+This repo will be deleted, it's just some example code.. 
